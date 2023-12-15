@@ -8,14 +8,16 @@ body {
 }
 .container{
     box-shadow: 10px 10px black;
-    width:80%;
-    max-width: 28em;
+    /* width:80%; */
+    max-width: 30rem;
     border-color: black;
     text-align: center;
     margin: auto;
     background-color: burlywood;
     padding: 1em 1em;
     margin-top:8rem;
+    margin-left:1.5% ;
+    margin-right: 1.5%;
     font-size: 1rem;
 }
 .button{
