@@ -8,7 +8,7 @@ body {
 }
 .container{
     box-shadow: 10px 10px black;
-    width:30em;
+    width:25em;
     border-color: black;
     text-align: center;
     margin: auto;
@@ -17,7 +17,7 @@ body {
     margin-top:10em;
 }
 #count{
-    font-size: 2.2em;
+    font-size: 2.2rem;
 }
 .button{
     display: flex;
