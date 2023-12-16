@@ -8,7 +8,7 @@
     <body>
         <div class="container">
             <h1>People entered:</h1>
-            <p id="count" >0</p>
+            <p id="count">0</p>
         </div>
         <div class="button">
             <button id="increment" onclick="increment()">INCREMENT</button>
@@ -16,6 +16,8 @@
         </div>
         <button id="reset" onclick="reset()"><b>RESET</b></button>
         <p id="print">Previous Entries: </p>
-        <script src="index.js"></script>
+        <script src="index.js">
+            import { annotate } from 'https://unpkg.com/rough-notation?module';
+        </script>
     </body>
 </html>

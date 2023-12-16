@@ -1,3 +1,6 @@
+// // let n1 = document.getElementById("count");
+// // let a1 = annotate(n1, { type: 'box', color: 'blue' });
+// // a1.show();
 let print = document.getElementById("print")
 let count = document.getElementById("count")
 let temp = 0
